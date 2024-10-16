@@ -1,5 +1,7 @@
 package hu.bme.mit.spaceship;
 
+//thx
+
 import java.util.Random;
 
 /**
